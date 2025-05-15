@@ -3,7 +3,7 @@
 This project defines a relational database schema for managing a library system. The database is designed to store information about books, authors, genres, members, and loans. It is implemented using SQL and includes tables with relationships to ensure data integrity.
 
 ## ERD (Diagram)
-![ERD Diagram](/home/amos/plp/data_base/plp_final_database/Library ERD.png)
+![ERD Diagram](images/erd.png)
 
 ## My project files are:
 - `lib.sql`
